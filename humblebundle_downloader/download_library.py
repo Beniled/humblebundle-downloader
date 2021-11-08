@@ -237,7 +237,7 @@ class DownloadLibrary:
                 continue
 
             product_folder = os.path.join(
-                self.library_path, bundle_title, product_title
+                self.library_path, bundle_title
             )
             # Create directory to save the files to
             try: os.makedirs(product_folder)  # noqa: E701
