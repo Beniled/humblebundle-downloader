@@ -14,7 +14,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Eddy Hintze',
     author_email="eddy@hintze.co",
-    url="https://github.com/xtream1101/humblebundle-downloader",
+    url="https://github.com/Beniled/humblebundle-downloader",
     license='MIT',
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -30,5 +30,4 @@ setup(
         'requests',
         'parsel',
     ],
-
 )
